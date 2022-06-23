@@ -1,0 +1,16 @@
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-MVC\bin\Debug\Framework-MVC.exe
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-MVC\bin\Debug\Framework-MVC.pdb
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-MVC\bin\Debug\Framework-Base.dll
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-MVC\bin\Debug\Framework-Controller.dll
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-MVC\bin\Debug\Framework-Model.dll
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-MVC\bin\Debug\Framework-View.dll
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-MVC\bin\Debug\Framework-Base.pdb
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-MVC\bin\Debug\Framework-Controller.pdb
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-MVC\bin\Debug\Framework-Model.pdb
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-MVC\bin\Debug\Framework-View.pdb
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-MVC\obj\Debug\Framework_MVC.csproj.AssemblyReference.cache
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-MVC\obj\Debug\Framework_MVC.csproj.CoreCompileInputs.cache
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-MVC\obj\Debug\Framework_MVC.csproj.CopyComplete
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-MVC\obj\Debug\Framework-MVC.exe
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-MVC\obj\Debug\Framework-MVC.pdb
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-MVC\bin\Debug\Framework-MVC.exe.config

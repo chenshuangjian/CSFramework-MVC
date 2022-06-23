@@ -1,0 +1,9 @@
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-Model\bin\Debug\Framework-Model.dll
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-Model\bin\Debug\Framework-Model.pdb
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-Model\bin\Debug\Framework-Base.dll
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-Model\bin\Debug\Framework-Base.pdb
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-Model\obj\Debug\Framework-Model.csproj.AssemblyReference.cache
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-Model\obj\Debug\Framework-Model.csproj.CoreCompileInputs.cache
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-Model\obj\Debug\Framework-Model.csproj.CopyComplete
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-Model\obj\Debug\Framework-Model.dll
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-Model\obj\Debug\Framework-Model.pdb

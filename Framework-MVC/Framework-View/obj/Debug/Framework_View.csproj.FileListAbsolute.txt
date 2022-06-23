@@ -1,0 +1,11 @@
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-View\bin\Debug\Framework-View.dll
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-View\bin\Debug\Framework-View.pdb
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-View\bin\Debug\Framework-Base.dll
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-View\bin\Debug\Framework-Base.pdb
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-View\obj\Debug\Framework_View.csproj.AssemblyReference.cache
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-View\obj\Debug\Framework_View.FrmStudent.resources
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-View\obj\Debug\Framework_View.csproj.GenerateResource.cache
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-View\obj\Debug\Framework_View.csproj.CoreCompileInputs.cache
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-View\obj\Debug\Framework_View.csproj.CopyComplete
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-View\obj\Debug\Framework-View.dll
+F:\0_Git\doNet-CSFramework-MVC\Framework-MVC\Framework-View\obj\Debug\Framework-View.pdb

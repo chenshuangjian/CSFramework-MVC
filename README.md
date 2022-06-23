@@ -1,2 +1,3 @@
 # CSFramework-MVC
-CSFramework-MVC C#中WinForm的MVC框架实现Demo
+使用WinForm构建MVC架构，实现界面控制分离
+
